@@ -1,0 +1,39 @@
+Removed Parameter :CDRH10D48MNNP-220-NC from Part L?
+Removed Parameter ComponentLink1URL:* from Part C?
+Removed Parameter ComponentLink1URL:* from Part C?
+Removed Parameter ComponentLink2URL:* from Part C?
+Removed Parameter ComponentLink2URL:* from Part C?
+Added Parameter ComponentLink1Description=Datasheet to Part *
+Added Parameter ComponentLink1Description=Datasheet to Part L?
+Added Parameter ComponentLink1Description=Datasheet to Part D?
+Added Parameter ComponentLink1Description=Datasheet to Library 
+Added Parameter ComponentLink1Description=Datasheet to Part R?
+Added Parameter ComponentLink2Description=SupplierLink to Part *
+Added Parameter ComponentLink2Description=SupplierLink to Part L?
+Added Parameter ComponentLink2Description=SupplierLink to Part D?
+Added Parameter ComponentLink2Description=SupplierLink to Library 
+Added Parameter ComponentLink2Description=SupplierLink to Part R?
+Added Parameter Manufacturer= to Part *
+Added Parameter Manufacturer= to Part L?
+Added Parameter Manufacturer= to Part D?
+Added Parameter Manufacturer= to Library 
+Added Parameter Manufacturer= to Part R?
+Added Parameter MPN= to Part *
+Added Parameter MPN= to Part L?
+Added Parameter MPN= to Part D?
+Added Parameter MPN= to Library 
+Added Parameter MPN= to Part R?
+Added Parameter Package= to Part *
+Added Parameter Package= to Part L?
+Added Parameter Package= to Part D?
+Added Parameter Package= to Library 
+Added Parameter Package= to Part R?
+Added Parameter Price (USD)= to Part *
+Added Parameter Price (USD)= to Part L?
+Added Parameter Price (USD)= to Part D?
+Added Parameter Price (USD)= to Library 
+Added Parameter Price (USD)= to Part R?
+Added Parameter Value= to Part *
+Added Parameter Value= to Part L?
+Added Parameter Value= to Part D?
+Added Parameter Value= to Part R?

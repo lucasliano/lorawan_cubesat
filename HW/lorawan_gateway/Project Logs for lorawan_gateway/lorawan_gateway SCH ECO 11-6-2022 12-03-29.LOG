@@ -1,0 +1,24 @@
+Change Value of Parameter ComponentLink1Description in Part C? Old=SupplierLink New=Datasheet
+Change Value of Parameter ComponentLink1URL in Part C? Old= New=*
+Added Parameter ComponentLink1Description=Datasheet to Part C?
+Added Parameter ComponentLink1Description=Datasheet to Part *
+Added Parameter ComponentLink1Description=Datasheet to Part L?
+Added Parameter ComponentLink1Description=Datasheet to Part D?
+Added Parameter ComponentLink1Description=Datasheet to Part R?
+Added Parameter ComponentLink1URL=* to Part C?
+Added Parameter ComponentLink1URL=* to Part *
+Added Parameter ComponentLink1URL=* to Part L?
+Added Parameter ComponentLink1URL=* to Part D?
+Added Parameter ComponentLink1URL=* to Part R?
+Added Parameter ComponentLink2Description=SupplierLink to Part C?
+Added Parameter ComponentLink2Description=SupplierLink to Part *
+Added Parameter ComponentLink2Description=SupplierLink to Part L?
+Added Parameter ComponentLink2Description=SupplierLink to Part D?
+Added Parameter ComponentLink2Description=SupplierLink to Part R?
+Added Parameter ComponentLink2URL=* to Part C?
+Added Parameter ComponentLink2URL=* to Part C?
+Added Parameter ComponentLink2URL=* to Part *
+Added Parameter ComponentLink2URL=* to Part L?
+Added Parameter ComponentLink2URL=* to Part D?
+Added Parameter ComponentLink2URL=* to Library 
+Added Parameter ComponentLink2URL=* to Part R?
