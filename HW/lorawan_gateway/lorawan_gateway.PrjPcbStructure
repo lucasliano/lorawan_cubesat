@@ -8,4 +8,3 @@ Record=SheetSymbol|SourceDocument=Gateway.SchDoc|Designator=RADIOA|SchDesignator
 Record=SheetSymbol|SourceDocument=Gateway.SchDoc|Designator=RADIOB|SchDesignator=RADIOB|FileName=SX1250.SchDoc|SheetNumber=4|SymbolType=Normal|RawFileName=SX1250.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
 Record=SheetSymbol|SourceDocument=Gateway.SchDoc|Designator=RADIOC|SchDesignator=RADIOC|FileName=SX126x.SchDoc|SheetNumber=5|SymbolType=Normal|RawFileName=SX126x.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
 Record=SheetSymbol|SourceDocument=Gateway.SchDoc|Designator=SX1302|SchDesignator=SX1302|FileName=SX1302.SchDoc|SheetNumber=3|SymbolType=Normal|RawFileName=SX1302.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
-Record=NoMainPathDocument|SourceDocument=System.SchDoc|FileName=PCI104-Express.SchDoc|SheetNumber=9
