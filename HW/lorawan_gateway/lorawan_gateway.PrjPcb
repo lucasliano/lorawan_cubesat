@@ -371,6 +371,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WHYBBFGW
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for lorawan_gateway\Design Rule Check - pci_104.html
+DItemRevisionGUID=
+
 [Parameter1]
 Name=ProjectTitle
 Value=LoRaWAN Gateway

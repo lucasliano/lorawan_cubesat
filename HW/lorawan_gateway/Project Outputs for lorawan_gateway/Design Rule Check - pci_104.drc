@@ -1,0 +1,98 @@
+Protel Design System Design Rule Check
+PCB File : C:\Users\lucas\OneDrive\Desktop\labsatiot_lorawan\HW\lorawan_gateway\pci_104.PcbDoc
+Date     : 21/7/2022
+Time     : 02:02:51
+
+Processing Rule : Clearance Constraint (Gap=0.102mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.254mm) (InNet('GND')),(InNetClass('RF') OR InDifferentialPairClass('RFI_DIFF'))
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+   Violation between Un-Routed Net Constraint: Net NetJ1_1 Between Track (78.913mm,5.839mm)(78.913mm,14.387mm) on Top Layer - RF And Pad J1-1(89mm,45mm) on Multi-Layer 
+Rule Violations :1
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.096mm) (Max=0.186mm) (Preferred=0.186mm) (InNetClass('RF'))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.096mm) (Max=0.186mm) (Preferred=0.186mm) (InNetClass('RFI_DIFF'))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.152mm) (Max=2.54mm) (Preferred=0.254mm) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=0.2mm) (Max=6mm) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=0.254mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=0mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=0mm) (IsPad),(All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=0mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Room PrincipalA.RADIOBB (Bounding Region = (60mm, 66.75mm, 77.5mm, 78.5mm) (InComponentClass('PrincipalA.RADIOBB'))
+Rule Violations :0
+
+Processing Rule : Room RedundadoB.RADIOBD (Bounding Region = (60mm, 23.25mm, 77.5mm, 35mm) (InComponentClass('RedundadoB.RADIOBD'))
+Rule Violations :0
+
+Processing Rule : Room PrincipalA.RADIOCA (Bounding Region = (58.75mm, 50.867mm, 77.5mm, 63.1mm) (InComponentClass('PrincipalA.RADIOCA'))
+Rule Violations :0
+
+Processing Rule : Room Principal (Bounding Region = (27mm, 49mm, 119mm, 93.5mm) (InComponentClass('Principal'))
+Rule Violations :0
+
+Processing Rule : Room RedundadoB.FrontEndB (Bounding Region = (82.75mm, 5.9mm, 109.9mm, 43mm) (InComponentClass('RedundadoB.FrontEndB'))
+Rule Violations :0
+
+Processing Rule : Room RedundadoB.PowerB (Bounding Region = (30.75mm, 11mm, 114mm, 48.25mm) (InComponentClass('RedundadoB.PowerB'))
+Rule Violations :0
+
+Processing Rule : Room RedundadoB.RADIOAC (Bounding Region = (60mm, 35.1mm, 77.5mm, 49mm) (InComponentClass('RedundadoB.RADIOAC'))
+Rule Violations :0
+
+Processing Rule : Room PrincipalA.PowerA (Bounding Region = (30.75mm, 54.5mm, 118.25mm, 93.25mm) (InComponentClass('PrincipalA.PowerA'))
+Rule Violations :0
+
+Processing Rule : Room PrincipalA.FrontEndA (Bounding Region = (82.75mm, 49.4mm, 109.9mm, 86.5mm) (InComponentClass('PrincipalA.FrontEndA'))
+Rule Violations :0
+
+Processing Rule : Room RedundadoB.SX1302B (Bounding Region = (34.25mm, 22.25mm, 60.75mm, 40mm) (InComponentClass('RedundadoB.SX1302B'))
+Rule Violations :0
+
+Processing Rule : Room RedundadoB.RADIOCB (Bounding Region = (58.75mm, 7.267mm, 77.5mm, 19.5mm) (InComponentClass('RedundadoB.RADIOCB'))
+Rule Violations :0
+
+Processing Rule : Room PrincipalA.SX1302A (Bounding Region = (34.25mm, 65.75mm, 60.75mm, 83.5mm) (InComponentClass('PrincipalA.SX1302A'))
+Rule Violations :0
+
+Processing Rule : Room PrincipalA.RADIOAA (Bounding Region = (60mm, 78.6mm, 77.5mm, 92.5mm) (InComponentClass('PrincipalA.RADIOAA'))
+Rule Violations :0
+
+Processing Rule : Room Redundado (Bounding Region = (27mm, 5.5mm, 119mm, 50mm) (InComponentClass('Redundado'))
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (All)
+Rule Violations :0
+
+
+Violations Detected : 1
+Waived Violations : 0
+PCB Health Issues : 0
+Time Elapsed        : 00:00:02
