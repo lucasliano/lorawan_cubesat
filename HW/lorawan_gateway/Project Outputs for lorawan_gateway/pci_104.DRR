@@ -1,0 +1,21 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: pci_104.PcbDoc   21/7/2022  14:48:18
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer - RF to Bottom Layer - Digital
+ASCII RoundHoles File : pci_104-RoundHoles.TXT
+ASCII SlotHoles File : pci_104-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      8mil (0.2mm)                                              Round             3746      PTH        184.32inch (4681.78mm)
+T2      10mil (0.25mm)                                            Round             114       PTH        9.77inch (248.23mm)
+T3      12mil (0.3mm)                                             Round             102       PTH        6.25inch (158.78mm)
+T4      39mil (1mm)                                               Round             8         PTH        0.70inch (17.78mm)
+T5      39mil (1mm)                                               Slot              3         PTH        1.23inch (31.37mm)
+T6      60mil (1.52mm)                                            Round             5         PTH        0.74inch (18.83mm)
+T7      125mil (3.175mm)                                          Round             4         PTH        11.27inch (286.28mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              3982
+
+Total Processing Time (hh:mm:ss) : 00:00:00

@@ -1,0 +1,26 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [lorawan_gateway.PrjPcb]
+   Generated File[pci_104.GTO]
+   Generated File[pci_104.GTP]
+   Generated File[pci_104.GTS]
+   Generated File[pci_104.GTL]
+   Generated File[pci_104.G1]
+   Generated File[pci_104.G2]
+   Generated File[pci_104.GBL]
+   Generated File[pci_104.GBS]
+   Generated File[pci_104.GBP]
+   Generated File[pci_104.GBO]
+   Generated File[pci_104.GM6]
+   Generated File[pci_104.GPT]
+   Generated File[pci_104.GPB]
+   Generated File[pci_104.GD1]
+   Generated File[pci_104.RUL]
+   Generated File[pci_104.EXTREP]
+   Generated File[pci_104.REP]
+
+
+Files Generated   : 17
+Documents Printed : 0
+
+Finished Output Generation At 14:56:21 On 21/7/2022

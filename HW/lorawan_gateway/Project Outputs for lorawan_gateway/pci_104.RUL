@@ -1,0 +1,8 @@
+DRC Rules Export File for PCB: C:\Users\lucas\OneDrive\Desktop\labsatiot_lorawan\HW\lorawan_gateway\pci_104.PcbDoc
+RuleKind=Width|RuleName=Width_1|Scope=Board|Minimum=3.80
+RuleKind=Clearance|RuleName=Clearance_RF|Scope=Board|Minimum=10.00
+RuleKind=Width|RuleName=RF|Scope=Board|Minimum=3.80
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=6.00
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=4.00
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
