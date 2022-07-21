@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\lucas\OneDrive\Desktop\labsatiot_lorawan\HW\lorawan_gateway\pci_104.PcbDoc
 Date     : 21/7/2022
-Time     : 02:02:51
+Time     : 12:07:07
 
 Processing Rule : Clearance Constraint (Gap=0.102mm) (All),(All)
 Rule Violations :0
@@ -13,8 +13,7 @@ Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
 Rule Violations :0
 
 Processing Rule : Un-Routed Net Constraint ( (All) )
-   Violation between Un-Routed Net Constraint: Net NetJ1_1 Between Track (78.913mm,5.839mm)(78.913mm,14.387mm) on Top Layer - RF And Pad J1-1(89mm,45mm) on Multi-Layer 
-Rule Violations :1
+Rule Violations :0
 
 Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
 Rule Violations :0
@@ -58,7 +57,7 @@ Rule Violations :0
 Processing Rule : Room Principal (Bounding Region = (27mm, 49mm, 119mm, 93.5mm) (InComponentClass('Principal'))
 Rule Violations :0
 
-Processing Rule : Room RedundadoB.FrontEndB (Bounding Region = (82.75mm, 5.9mm, 109.9mm, 43mm) (InComponentClass('RedundadoB.FrontEndB'))
+Processing Rule : Room RedundadoB.FrontEndB (Bounding Region = (82.75mm, 5.9mm, 109.9mm, 48.75mm) (InComponentClass('RedundadoB.FrontEndB'))
 Rule Violations :0
 
 Processing Rule : Room RedundadoB.PowerB (Bounding Region = (30.75mm, 11mm, 114mm, 48.25mm) (InComponentClass('RedundadoB.PowerB'))
@@ -92,7 +91,7 @@ Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (Al
 Rule Violations :0
 
 
-Violations Detected : 1
+Violations Detected : 0
 Waived Violations : 0
 PCB Health Issues : 0
 Time Elapsed        : 00:00:02
