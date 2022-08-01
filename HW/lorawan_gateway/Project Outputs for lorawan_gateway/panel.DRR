@@ -1,0 +1,22 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: panel.PcbDoc   1/8/2022  13:07:45
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer - RF to Bottom Layer
+ASCII RoundHoles File : panel-RoundHoles.TXT
+ASCII SlotHoles File : panel-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      8mil (0.2mm)                                              Round             14984     PTH        735.91inch (18692.16mm)
+T2      10mil (0.25mm)                                            Round             456       PTH        46.69inch (1185.91mm)
+T3      12mil (0.3mm)                                             Round             408       PTH        45.61inch (1158.46mm)
+T4      39mil (1mm)                                               Round             32        PTH        24.49inch (622.16mm)
+T5      39mil (1mm)                                               Slot              12        PTH        60.44inch (1535.18mm)
+T6      60mil (1.52mm)                                            Round             20        PTH        7.45inch (189.20mm)
+T7      125mil (3.175mm)                                          Round             16        PTH        45.13inch (1146.26mm)
+T8      157mil (4mm)                                              Round             2         NPTH       7.16inch (181.75mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              15930
+
+Total Processing Time (hh:mm:ss) : 00:00:01
