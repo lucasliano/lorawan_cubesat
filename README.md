@@ -52,10 +52,6 @@
 
 The project was presented as the final assignament of the subject _Introduction to the design of Printed Circuit Boards_, in the _Electronics Engineering_ carrear at the _Universidad Tecnológica Nacional_ located in Buenos Aires, Argentina.
 
-<p align="center">
-  <img src="images/utn.jpg" alt="utn" width="40%" height="40%">
-</p>
-
 The main goal of the project was to described the design criteria used in the implementation of the layout, while desiging for manufacturing. As the project was develop in less than 2 month, which you can verify looking at the history of this repo, the scope was modified.
 
 I'm still learning about these topics. If you find something wrong in the design, please let me know. I will be grateful at any feedback received.
