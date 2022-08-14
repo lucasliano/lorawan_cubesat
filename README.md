@@ -1,31 +1,32 @@
 <!--
 *** To avoid retyping too much info. Do a search and replace for the following:
-*** repo_name, project_title, project_description
+*** lorawan_cubesat, LoRaWAN Gateway for cubesat mission, project_description
 -->
 
 
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/lucasliano/repo_name">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  <a href="https://github.com/lucasliano/lorawan_cubesat">
+    <img src="images/logo.png" alt="Logo" width="150" height="100">
   </a>
 
-  <h2 align="center">LABSAT IOT:</h3>
-  <h3 align="center">LoRaWAN Gateway</h2>
+  <h2 align="center">LoRaWAN Gateway:</h3>
+  <h3 align="center">Design Criteria for Cubesat Mission</h2>
   
 
   <p align="center">
-    project_description
+    Cubesat submodule development for a LoRaWAN Gateway capable of operating in harsh environments.
+    This project has available not only the design files, but also a report describing the design criteria used. 
     <br />
-    <a href="https://github.com/lucasliano/repo_name"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/lucasliano/lorawan_cubesat/blob/master/report_spanish.pdf"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/lucasliano/repo_name">View Demo</a>
+    <a href="https://github.com/lucasliano/lorawan_cubesat/tree/master/HW">View Demo</a>
     ·
-    <a href="https://github.com/lucasliano/repo_name/issues">Report Bug</a>
+    <a href="https://github.com/lucasliano/lorawan_cubesat/issues">Report Bug</a>
     ·
-    <a href="https://github.com/lucasliano/repo_name/issues">Request Feature</a>
+    <a href="https://github.com/lucasliano/lorawan_cubesat/issues">Request Feature</a>
   </p>
 </p>
 
@@ -35,21 +36,8 @@
 <details open="open">
   <summary><h2 style="display: inline-block">Table of Contents</h2></summary>
   <ol>
-    <<li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
+    <li><a href="#about-the-project">About The Project</a></li>
+    <li><a href="#getting-started">Getting Started</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
@@ -62,62 +50,45 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+The project was presented as the final assignament of the subject _Introduction to the design of Printed Circuit Boards_, in the _Electronics Engineering_ carrear at the _Universidad Tecnológica Nacional_ located in Buenos Aires, Argentina.
 
-Here's a blank template to get started:
-**To avoid retyping too much info. Do a search and replace with your text editor for the following:**
-`lucasliano`, `repo_name`, `lliano@frba.utn.edu.ar`, `project_title`, `project_description`
+<p align="center">
+  <img src="images/utn.jpg" alt="utn" width="40%" height="40%">
+</p>
 
+The main goal of the project was to described the design criteria used in the implementation of the layout, while desiging for manufacturing. As the project was develop in less than 2 month, which you can verify looking at the history of this repo, the scope was modified.
 
-### Built With
+I'm still learning about these topics. If you find something wrong in the design, please let me know. I will be grateful at any feedback received.
 
-* []()
-* []()
-* []()
+In this project you will find the `Altium Designer` project files:
 
+<p align="center">
+  <a href="https://github.com/lucasliano/lorawan_cubesat/tree/master/HW">
+  <img src="images/pcb-altium-front.png" alt="Logo" width="75%" height="75%">
+  </a>
+  <p align="center" style="font-size:0.75em;">Figure 1: Altium Designer view for the top leyer of the PCB layout.</p>
+</p>
+
+As well as a report containing all the details of the development. Unfortunately, this report is only available in spanish. If you are an english-speaker, please contact me if you have any concerns. 
+
+<p align="center">
+  <a href="https://github.com/lucasliano/lorawan_cubesat/blob/master/report_spanish.pdf">
+  <img src="images/cover.png" alt="Logo" width="40%" height="40%">
+  </a>
+  <p align="center" style="font-size:0.75em;">Figure 2: Report cover.</p>
+</p>
 
 
 <!-- GETTING STARTED -->
 ## Getting Started
 
-To get a local copy up and running follow these simple steps.
+This project was develop using Altium Designer 22. The project folder is '_HW/lorawan_gateway_'.
 
-### Prerequisites
+Cloning the repo will be enough to explore the design files. You will need an Altium Designer license
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
-
-### Installation
-
-1. Clone the repo
    ```sh
-   git clone https://github.com/lucasliano/repo_name.git
+   git clone https://github.com/lucasliano/lorawan_cubesat.git
    ```
-2. Install NPM packages
-   ```sh
-   npm install
-   ```
-
-
-
-<!-- USAGE EXAMPLES -->
-## Usage
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
-
-
-
-<!-- ROADMAP -->
-## Roadmap
-
-See the [open issues](https://github.com/lucasliano/repo_name/issues) for a list of proposed features (and known issues).
-
-
 
 <!-- CONTRIBUTING -->
 ## Contributing
@@ -130,35 +101,26 @@ Contributions are what make the open source community such an amazing place to b
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-
+See the [open issues](https://github.com/lucasliano/lorawan_cubesat/issues) for a list of proposed features (and known issues).
 
 <!-- LICENSE -->
 ## License
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
+However, I would appreciate if you tell me in case find this information helpful (or not).
 
 
 <!-- CONTACT -->
 ## Contact
 
-Lucas Liaño - lliano@frba.utn.edu.ar
+[Lucas Liaño](https://www.linkedin.com/in/lucas-lia%C3%B1o/) - lliano@frba.utn.edu.ar
 
-Project Link: [https://github.com/lucasliano/repo_name](https://github.com/lucasliano/repo_name)
+Project Link: [https://github.com/lucasliano/lorawan_cubesat](https://github.com/lucasliano/lorawan_cubesat)
 
 
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
 
-* []()
-* []()
-* []()
-
-
-
-
-
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[product-screenshot]: images/screenshot.png
+* [Semtech SX1302 Reference Design files](https://www.semtech.com/products/wireless-rf/lora-core/sx1302cssxxxgw1)
